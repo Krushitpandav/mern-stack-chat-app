@@ -1,0 +1,13 @@
+.messages {
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+    scrollbar-width: none;
+
+  }
+
+  .App {
+    /* background-image: url("../wp-bg.jpg"); */
+    background-position: center;
+    background-size: cover;
+  }
